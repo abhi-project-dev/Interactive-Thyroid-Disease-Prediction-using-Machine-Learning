@@ -10,30 +10,56 @@ Probability percentage
 Risk level (Low / Medium / High)
 Detailed explanation of the condition
 Personalized medical recommendations
+
+
 🔹 Key Features
-Interactive and responsive UI
-Real-time prediction based on user inputs
-Symptom-based scoring algorithm
-Risk classification (Low, Medium, High)
-Personalized recommendations for medical follow-up
-Clean and modern design with dynamic visual feedback
+
+=>Interactive and responsive UI
+
+=>Real-time prediction based on user inputs
+
+=>Symptom-based scoring algorithm
+
+=>Risk classification (Low, Medium, High)
+
+=>Personalized recommendations for medical follow-up
+
+=>Clean and modern design with dynamic visual feedback
+
+
 🔹 How It Works
+
 Users input symptoms using sliders, dropdowns, and checkboxes
 The system processes inputs using a scoring logic model
 It calculates probabilities for thyroid conditions
 Displays results along with actionable insights
+
+
 🔹 Technologies Used
-HTML5
-CSS3 (Modern UI Design)
-JavaScript (Core Logic & Interactivity)
+
+=>HTML5
+
+=>CSS3 (Modern UI Design)
+
+=>JavaScript (Core Logic & Interactivity)
+
+
+
 🔹 Use Case
 This project is designed for:
+
 Educational purposes
 Basic health awareness
 Demonstrating machine learning concepts using rule-based logic
+
+
 🔹 Disclaimer
+
 This application is intended for educational purposes only and does not replace professional medical advice, diagnosis, or treatment.
+
+
 🔹 Future Enhancements
+
 Integration with real ML models (e.g., Logistic Regression, Random Forest)
 Backend integration with databases
 User authentication system
